@@ -12,3 +12,4 @@ We have two type of json file here, one is song information and other is log inf
 Fact Table: songplay
 Dimension Table: users,songs,songsplay,time 
 
+![](star_schema.png)
